@@ -13,5 +13,6 @@
     <packaging>pom</packaging>
     <modules>
         <module>trie_vs_treemap</module>
+        <module>lambda</module>
     </modules>
 </project>

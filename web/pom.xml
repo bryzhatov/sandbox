@@ -13,7 +13,6 @@
     <modules>
         <module>javaee</module>
         <module>spring-native</module>
-        <module>sweater</module>
     </modules>
 
     <artifactId>web</artifactId>
