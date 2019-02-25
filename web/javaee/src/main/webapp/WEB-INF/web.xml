@@ -3,13 +3,13 @@
         "http://java.sun.com/dtd/web-app_2_3.dtd" >
 
 <web-app>
-    <servlet>
-        <servlet-name>DefaultServlet</servlet-name>
-        <servlet-class>ua.bryzhatov.javaee.DefaultServlet</servlet-class>
-    </servlet>
+    <!--<servlet>-->
+        <!--<servlet-name>DefaultServlet</servlet-name>-->
+        <!--<servlet-class>ua.bryzhatov.javaee.DefaultServlet</servlet-class>-->
+    <!--</servlet>-->
 
-    <servlet-mapping>
-        <servlet-name>DefaultServlet</servlet-name>
-        <url-pattern>/default</url-pattern>
-    </servlet-mapping>
+    <!--<servlet-mapping>-->
+        <!--<servlet-name>DefaultServlet</servlet-name>-->
+        <!--<url-pattern>/default</url-pattern>-->
+    <!--</servlet-mapping>-->
 </web-app>
